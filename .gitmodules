@@ -1,0 +1,6 @@
+[submodule "preprocess"]
+	path = preprocess
+	url = /Users/dlaurence/git/test_submodules/preprocess
+[submodule "matching-qa"]
+	path = matching-qa
+	url = /Users/dlaurence/git/test_submodules/matching-qa
